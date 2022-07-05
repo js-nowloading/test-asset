@@ -1,19 +1,6 @@
 {
-   "name":"Shizuk - Samurai Sword",
-   "description":"This is a Shizuk weapon NFT",
-   "image":"https://develop.shizuk.io/weapons/9.png",
-   "attributes":[
-      {
-         "trait_type":"Type",
-         "value":"Special"
-      },
-      {
-         "trait_type":"Value",
-         "value":"Expensive"
-      },
-      {
-         "trait_type":"Color",
-         "value":"Shiny"
-      }
-   ]
+   "name":"JS Now Loading",
+   "description":"now loading...",
+   "image":"https://raw.githubusercontent.com/js-nowloadng/test-asset/master/now-loading.png",
+   "attributes":[]
 }
